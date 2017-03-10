@@ -1,3 +1,6 @@
+/**
+ * Created by Serpent on 10.03.2017.
+ */
 import { Component } from '@angular/core';
 
 @Component({
